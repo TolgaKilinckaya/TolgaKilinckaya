@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tolg_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tolg_v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tolgakılınçkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgakılınçkaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tolga-k%C4%B1l%C4%B1n%C3%A7kaya-42a49a1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgakılınçkaya" height="30" width="40" /></a>
 <a href="https://instagram.com/tolga_kilinckaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolga_kilinckaya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tolgakilinckaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tolgakilinckaya" height="30" width="40" /></a>
 </p>
