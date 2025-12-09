@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolgakilinckaya" alt="tolgakilinckaya" /></a> </p>
 
-- 🌱 I’m currently learning **Quantum Programming & Rust Lang.**
+- 🌱 I’m currently learning **PINNs & Federated Learning**
 
 - 📫 How to reach me **tolgakilinckaya@gmail.com**
 
